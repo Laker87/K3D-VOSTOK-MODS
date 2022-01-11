@@ -18,7 +18,7 @@ In root folder of your modification you must place README.md. It must start with
 Mod name: 
 Mod author:
 Printer version: 
-Work status:
+Status:
 ```
 
 ### Mod name
@@ -39,7 +39,7 @@ K3D VOSTOK version that this modification is compatible. Example:
 Printer version: V06
 ```
 
-### Work status
+### Status
 Brief status of your work. Can be one of three: *Work in progress*; *Tested*; *Discontinued*. Example:
 ```
 Work status: Tested
