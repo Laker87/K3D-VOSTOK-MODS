@@ -9,7 +9,7 @@
 * Name should not contain information about printer version and work status
 * Name should not contain explicit words
 
-Good mod name example: BMG V6 4010 fan duct by Vladimir Zhirinovsky
+Good mod name example: ```BMG V6 4010 fan duct by Vladimir Zhirinovsky```
 
 ## Don't forget README
 
@@ -40,7 +40,7 @@ Printer version: V06
 ```
 
 ### Status
-Brief status of your work. Can be one of three: *Work in progress*; *Tested*; *Discontinued*. Example:
+Brief status of your work. Can be one of three: ```Work in progress```; ```Tested```; ```Discontinued```. Example:
 ```
 Work status: Tested
 ```
