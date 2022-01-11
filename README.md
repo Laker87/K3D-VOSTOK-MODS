@@ -1,34 +1,64 @@
-[English readme](README.en.md)
+[Русское описание](README.ru.md)
 
-# Репозитой с пользовательскими модификациями K3D VOSTOK
+# K3D VOSTOK user mods repository
 
-## Называйте свои моды корректно
+## Name your mods correctly
 
-Обратите внимание, что название должно быть полностью на английском языке. Если необходима помощь с переводом, то обратитесь в чат с обсуждением принтера https://t.me/k3d_vostok
+* Name should contain information about what this mod does
+* Name can contain information about who made this mod
+* Name should not contain information about printer version and work status
+* Name should not contain explicit words
 
-1. Начните с ярлыка [WIP} если ваш мод находится в работе. Если нет, то пропустите этот шаг
-2. Далее версия принтера. Например: [V05], [V06] и т.д.
-3. Далее короткое описание вашей модификации
-4. Закончите подписью
+Good mod name example: BMG V6 4010 fan duct by Vladimir Zhirinovsky
 
-Пример хорошего названия: [WIP][V06] BMG V6 4010 fan duct by Vladimir Zhirinovsky
+## Don't forget README
 
-## Не забудьте README
+In root folder of your modification you must place README.md. It must start with following table:
+...
+Mod name: 
+Mod author:
+Printer version: 
+Work status:
+...
 
-Поместите файл README.md в папке с вашим модом. **Желательно, но не обязательно**, чтобы он содержал следующую информацию:
+### Mod name
+Just as mod folder named. Example:
+...
+Mod name: BMG V6 4010 fan duct
+...
 
-* Что конкретно эта модификация делает, если это не понятно из названия
-* Какие покупные детали нужны для него
-* Какие покупные детали (включая крепеж) из основной ветки становятся не нужны из-за этого мода
-* Какие печатные детали из основной ветки больше не нужны из-за этого мода
-* Как его установить и настроить
+### Mod author
+If you want to remain anonymously, you can leave this blank. Otherwise you can name yourself as you want and add any contacts that you want. Example:
+...
+Mod author: Dmitry Sorkin | @dmitry_sorkin | dbsorkin@gmail.com
+...
 
-## Как именовать файлы
+### Printer version
+K3D VOSTOK version that this modification is compatible. Example:
+...
+Printer version: V06
+...
 
-* Обязательно на английском языке. Если нужна помощь с переводом, то обратитесь в чат с обсуждением принтера https://t.me/k3d_vostok
-* Не используйте систему численных обозначений из основной ветки чтобы не создать путаницу
-* В остальном называйте файлы как вам угодно, лишь бы было понятно что к чему
+### Work status
+Brief status of your work. Can be one of three: *Work in progress*; *Tested*; *Discontinued*. Example:
+...
+Work status: Tested
+...
 
-## Что дальше
+### Description
 
-Создайте pull request. Он будет проверен и добавлен как только появится время на это.
+After brief information table you can add any description as you like. But it will be very good if it will contain:
+
+* What this modification does
+* What extra parts needed for this mod
+* What stock parts are not needed anymore
+* How to print and install it on printer
+
+## File names
+
+* English only
+* Don't use VOSTOK main repository files tag numbers
+
+## What next
+
+Create pull request. If everything is alright, it will be merged
