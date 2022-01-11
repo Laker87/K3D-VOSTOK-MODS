@@ -14,36 +14,36 @@ Good mod name example: BMG V6 4010 fan duct by Vladimir Zhirinovsky
 ## Don't forget README
 
 In root folder of your modification you must place README.md. It must start with following table:
-...
+```
 Mod name: 
 Mod author:
 Printer version: 
 Work status:
-...
+```
 
 ### Mod name
 Just as mod folder named. Example:
-...
+```
 Mod name: BMG V6 4010 fan duct
-...
+```
 
 ### Mod author
 If you want to remain anonymously, you can leave this blank. Otherwise you can name yourself as you want and add any contacts that you want. Example:
-...
+```
 Mod author: Dmitry Sorkin | @dmitry_sorkin | dbsorkin@gmail.com
-...
+```
 
 ### Printer version
 K3D VOSTOK version that this modification is compatible. Example:
-...
+```
 Printer version: V06
-...
+```
 
 ### Work status
 Brief status of your work. Can be one of three: *Work in progress*; *Tested*; *Discontinued*. Example:
-...
+```
 Work status: Tested
-...
+```
 
 ### Description
 
