@@ -18,7 +18,7 @@
 Mod name: 
 Mod author:
 Printer version: 
-Work status:
+Status:
 ```
 
 ### Mod name
@@ -42,7 +42,7 @@ Printer version: V06
 ### Work status
 Короткий статус вашего мода. Может быть один из трёх: ```Work in progress```; ```Tested```; ```Discontinued```. Пример:
 ```
-Work status: Tested
+Status: Tested
 ```
 
 ## Описание
