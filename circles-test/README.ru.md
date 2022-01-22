@@ -1,3 +1,4 @@
+[EN](README.md)
 # Тест кругов
 
 ## Автор [@DeltaDesignRus](https://github.com/DeltaDesignRus)
