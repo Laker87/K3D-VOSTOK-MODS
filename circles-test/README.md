@@ -9,7 +9,7 @@
 ## Status: Tested
 
 # Mod Description:
-This torture test used to check your print correctnes on high speeds and accelerations, In some cases (weak details, incorrect assembly, loose belts, etc) print head could not follow proper path and can skid from traectory. This model shows all imperfections if any and you may found whein that direction issue is, X or Y or both
+This torture test used to check your print correctnes on high speeds and accelerations, In some cases (weak details, incorrect assembly, loose belts, etc) print head could not follow proper path and can skid from traectory. This model shows all imperfections if any and you may found in that direction issue is, X or Y or both
 
 ## Expected outcomes:
 * Circles are even in all directions
@@ -44,7 +44,7 @@ Defect Examples:
 # How to prepare and share photos in help channel:
 Let say you are using Ikea lamp like this:  
 <img src="images/lamp.jpeg" alt="Ikea lamp" width="200"/>  
-You need to place model under the light but it is important for bulb itself do not reflect on the model, so model should feflect light from lamp diffuser.   
+You need to place model under the light but it is important for bulb itself do not reflect on the model, so model should reflect light from lamp diffuser.   
 Wrong:   
 <img src="images/bulb.jpeg" alt="Bulb reflected" width="200"/> 
 <img src="images/partially_bulb.jpeg" alt="Parially Bulb reflected" width="200"/> 
